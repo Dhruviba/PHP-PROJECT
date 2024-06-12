@@ -1,0 +1,32 @@
+body{
+    text-align: center;
+    background-color: #EAB543;
+}
+
+#headersection {
+    padding: 10px;
+}
+
+#headersection h1{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+input{
+    padding: 10px;
+    border-radius: 5px;
+}
+
+#dropbox{
+    padding: 10px;
+    border-radius: 5px;
+    width: 15%;
+}
+
+#logbutton{
+    padding: 10px;
+    font-size: 15px;
+    border-radius: 5px;
+    background-color: #182C61;
+    color: white;
+}
+
